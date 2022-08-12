@@ -1,0 +1,68 @@
+*{
+    margin: 0px;
+}
+
+body{
+    background-color: #FFEDD5;
+}
+
+.cabecalho{
+    max-width: 300px;
+    margin: auto;
+}
+
+.titulo{
+    text-transform: uppercase;
+    margin-top: 25px;
+    text-align: center;
+}
+
+span{
+    color: #995000;
+}
+
+.subtitulo{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 25px;
+}
+
+.conteudo{
+    max-width: 300px;
+    margin: 0 auto;
+}
+
+.categorias{
+    background-color: #FED7AA;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 20px;
+    padding: 2px 0px;
+}
+
+h3.alimentos{
+    text-transform: uppercase;
+    font-size: 16px;
+    margin-top: 15px;
+    display: inline-block;
+    width: 190px;
+}
+
+p.precos{
+    text-transform: uppercase;
+    font-weight: bolder;
+    display: inline-block;
+    width: 100px;
+    text-align: right;
+}
+
+.descricao{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    color: rgba(0, 0, 0, 0.6);
+    margin: 15px 0px;
+    line-height: 21px;
+}
+
